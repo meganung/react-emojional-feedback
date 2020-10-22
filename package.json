@@ -1,10 +1,26 @@
 {
     "name": "react-emojional-feedback",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "React Emoji Feedback Component",
     "main": "./build/index.js",
     "author": "Megan Ung",
     "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/meganung/react-emojional-feedback"
+    },
+    "homepage": "https://github.com/meganung/react-emojional-feedback",
+    "keywords": [
+        "react",
+        "reactjs",
+        "react-feedback",
+        "react feedback",
+        "react-emoji",
+        "emojis",
+        "feedback",
+        "react.js",
+        "react component"
+      ],
     "scripts": {
         "build": "webpack"
     },

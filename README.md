@@ -5,6 +5,11 @@ a floating emoji tool for getting feedback!
 ![](https://media.giphy.com/media/V0FrMENrSbb1SgBZmp/giphy.gif)
 ![](https://media.giphy.com/media/kjvN7b46EaQ6l7XBuu/giphy.gif)
 
+## Installation
+```sh
+npm install react-emojional-feedback
+```
+
 ## Usage
 ```javascript
 import React from 'react';
@@ -24,4 +29,4 @@ Created by Megan Ung and Chloe Barreau.
 Emojional Feedback was originally seen on and built for [Explain the Valley](https://explainthevalley.com/).
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
